@@ -1,78 +1,221 @@
-Customer Contract Intelligence
-Snowflake Cortex AI · SQL · Customer Success Analytics · Interactive Dashboard
+# Customer Contract Intelligence
 
-Explore the interactive dashboard ↗
-Demo note: This project uses 100 synthetic customer contracts. The dashboard displays illustrative insights; its data was generated independently and is not the output of a completed Snowflake Cortex run. The SQL pipeline is provided for execution and validation in Snowflake.
+**Snowflake Cortex AI | SQL | Customer Success Analytics | Interactive Dashboard**
 
-The problem
-Customer Success Managers and Account Executives often have easy access to contract start dates, renewal dates and annual contract values, but important negotiated details are harder to find: temporary discounts, waived fees, renewal notice requirements, price-increase restrictions and bespoke customer commitments. These details can be missed during handovers and renewal preparation.
+### 🚀 [Explore the Live Interactive Dashboard ↗](https://anushri-22.github.io/customer-contract-intelligence/)
 
-This project explores how unstructured contract text can become a searchable, evidence-backed commercial intelligence layer.
-Live prototype
-Open Customer Contract Intelligence Dashboard
+An AI-powered contract intelligence project designed to help Customer Success Managers and Account Executives uncover hidden commercial insights, identify renewal risks, and discover revenue opportunities from unstructured customer agreements.
 
-The interactive HTML prototype lets you explore:
-- 100 synthetic contracts and a portfolio-level overview.
-- Customer-specific discounts, concessions, renewal clauses and obligations.
-- Renewal risks and potential commercial opportunities.
-- Full CONTRACT_RAW_TEXT alongside supporting clause excerpts.
-- Illustrative recommended actions for Customer Success and Account Management teams.
-The dashboard is a standalone HTML/JavaScript prototype. It does not currently query Snowflake in real time.
-Technical approach
-PDF / CSV contracts
-       |
-       v
-RAW_CONTRACT_DOCUMENTS (CONTRACT_RAW_TEXT)
-       |
-       v
-Snowflake Cortex AI extraction and classification
-       |
-       v
-SQL type conversion, validation and calculations
-       |
-       v
+> **Demo note:** This project uses 100 synthetic customer contracts. The interactive dashboard displays illustrative insights generated independently of Snowflake. The SQL pipeline demonstrates how these insights can be extracted using Snowflake Cortex AI, but has not yet been validated through a live Snowflake execution.
+
+---
+
+## The Problem
+
+Customer Success Managers and Account Executives typically have access to basic contract information such as annual recurring revenue (ARR), contract dates and renewal status.
+
+However, commercially significant details are often buried within lengthy agreements, amendments and historical negotiations.
+
+Examples include:
+
+- **Negotiated discounts:** Temporary discounts, special pricing arrangements and their expiry conditions.
+- **Commercial concessions:** Waived implementation fees, complimentary services and negotiated exceptions.
+- **Renewal obligations:** Notice periods, auto-renewal provisions and termination rights.
+- **Pricing restrictions:** Annual price uplift caps and contractual limitations.
+- **Customer-specific commitments:** Bespoke integrations, service-level agreements and product commitments.
+
+These details can easily be overlooked during account handovers, QBRs and renewal negotiations, potentially leading to missed revenue opportunities or contractual risks.
+
+**The objective:** Transform unstructured customer contracts into a searchable, evidence-backed commercial intelligence layer that enables account owners to make better renewal decisions.
+
+---
+
+## Live Interactive Dashboard
+
+### [Open Customer Contract Intelligence Dashboard ↗](https://anushri-22.github.io/customer-contract-intelligence/)
+
+The HTML/JavaScript prototype provides an interactive view of 100 synthetic SaaS customer contracts.
+
+**Dashboard capabilities:**
+
+- **Portfolio overview:** View customer contracts, ARR, renewal timelines and commercial risks.
+- **Contract intelligence:** Explore negotiated discounts, pricing exceptions, special clauses and customer-specific commitments.
+- **Renewal opportunities:** Identify expiring concessions, potential pricing opportunities and renewal considerations.
+- **AI-style recommendations:** View illustrative renewal insights and suggested account actions.
+- **Contract transparency:** Access the full `CONTRACT_RAW_TEXT` alongside extracted clauses and supporting evidence.
+- **Interactive filtering:** Search and explore contracts based on customer-specific commercial attributes.
+
+The current dashboard is a standalone HTML/JavaScript prototype and does not query Snowflake in real time.
+
+---
+
+## Technical Architecture
+
+The project follows a layered data processing approach:
+
+```text
+PDF / CSV Customer Contracts
+            |
+            v
+RAW_CONTRACT_DOCUMENTS
+(CONTRACT_RAW_TEXT)
+            |
+            v
+Snowflake Cortex AI
+AI_EXTRACT | AI_CLASSIFY | AI_COMPLETE
+            |
+            v
+SQL Transformation Layer
+Data Validation | Type Conversion
+Commercial Calculations
+            |
+            v
 CUSTOMER_CONTRACT_360
-       |
-       v
-Interactive dashboard (prototype)
-Snowflake functions demonstrated in the SQL
-Function / method	Intended role
-AI_EXTRACT	Extract contract dates, fees, discount terms, notice periods, pricing caps and supporting evidence from raw text.
-AI_CLASSIFY	Categorise discount treatment at renewal.
-AI_COMPLETE	Draft a concise, evidence-grounded renewal consideration and recommended next action.
-TRY_TO_DATE, TRY_TO_DECIMAL, TRY_TO_NUMBER	Safely convert extracted values into typed fields.
-DATEDIFF, DATEADD, CASE, NULLIF	Calculate renewal timing, notice deadlines, discount gaps and review flags.
-COPY INTO	Load staged CSV contract text into Snowflake.
+            |
+            v
+Interactive Customer Contract Dashboard
+```
 
+### 1. Data Ingestion
 
-For actual PDF ingestion, the pipeline can be extended with AI_PARSE_DOCUMENT. The supplied CSV already includes extracted synthetic contract text, so PDF parsing is not needed to run the current demonstration.
-Data
-File	Description
-raw_contract_documents_100.csv	Input: 100 synthetic documents with full CONTRACT_RAW_TEXT.
-customer_contract_360_100.csv	Illustrative 68-column dashboard dataset; not produced by the SQL script.
-contract_clauses_700.csv	700 synthetic clause/evidence records.
-snowflake_contract_intelligence.sql	Example Snowflake Cortex extraction and transformation pipeline.
-index.html	Standalone interactive dashboard for GitHub Pages.
+Synthetic contract text is loaded into Snowflake using `COPY INTO`.
 
+The `RAW_CONTRACT_DOCUMENTS` table retains the complete original contract text in the `CONTRACT_RAW_TEXT` column.
 
-Run the Snowflake pipeline
-1. Select a Snowflake warehouse and a role permitted to use Cortex AI functions.
-2. Open snowflake_contract_intelligence.sql in Snowsight.
-3. Create the database, schema, file format, stage and raw table using the script.
-4. Upload raw_contract_documents_100.csv to the stage and run COPY INTO.
-5. Run the AI extraction on 5 documents first to inspect output and manage cost.
-6. Review the returned JSON, extraction scores and supporting evidence.
-7. Expand to all 100 contracts after confirming results.
-8. Query the CUSTOMER_CONTRACT_360 view.
-Execution status: The SQL has not been validated in a live Snowflake environment as part of this repository's initial build. Snowflake function availability, models and permissions may vary by account and region. AI-generated interpretations should be reviewed against source documents before commercial decisions are made.
-Why it matters
-The goal is not simply to summarise contracts. It is to help account owners answer three questions before a renewal:
-1. What did we agree to? Identify negotiated terms and unusual commitments.
-2. What could affect the renewal? Surface discount conditions, deadlines and contractual restrictions.
-3. What should we investigate next? Combine extracted evidence with commercial context to prioritise follow-up.
-Future improvements
-- Connect the dashboard to a live Snowflake-backed application.
-- Ingest actual PDFs and amendments using document parsing.
-- Add CRM, billing, support and product-usage data to enrich account insights.
-- Provide clause-level citations, human review status and amendment precedence checks.
-View the live dashboard · Snowflake Cortex AI documentation
+For actual PDF contracts, the architecture can be extended using `AI_PARSE_DOCUMENT` to convert documents into text before extraction.
+
+### 2. AI-Powered Contract Extraction
+
+Snowflake Cortex AI functions are used in the SQL pipeline to extract and interpret commercially significant contract information.
+
+| Snowflake Function | Application |
+|---|---|
+| `AI_EXTRACT` | Extract contract dates, subscription fees, discounts, renewal conditions, notice periods and contractual commitments. |
+| `AI_CLASSIFY` | Categorise negotiated discount conditions, including whether discounts continue or expire at renewal. |
+| `AI_COMPLETE` | Generate evidence-grounded renewal considerations and recommended commercial actions. |
+| `AI_PARSE_DOCUMENT` | Proposed extension for processing PDF contracts into machine-readable text. |
+
+**Example extraction:**
+
+Original contract text:
+
+> A 20% introductory discount shall apply to the initial subscription term only. Any subsequent renewal shall be subject to the Supplier's prevailing commercial pricing.
+
+Expected structured output:
+
+```json
+{
+  "discount_percent": 20,
+  "discount_type": "Introductory",
+  "discount_renewal_treatment": "Initial term only",
+  "renewal_consideration": "Review discount expiry and applicable renewal pricing terms"
+}
+```
+
+This illustrates how contract language can be converted into structured attributes for commercial analysis.
+
+### 3. SQL Transformations and Commercial Intelligence
+
+Standard Snowflake SQL is used alongside Cortex AI to calculate commercial metrics without unnecessary AI processing.
+
+| SQL Function | Purpose |
+|---|---|
+| `TRY_TO_DATE` | Convert extracted contract dates into structured date fields. |
+| `TRY_TO_DECIMAL` | Convert extracted pricing and discount values into numeric fields. |
+| `DATEDIFF` | Calculate days remaining until renewal. |
+| `DATEADD` | Calculate contractual notice deadlines. |
+| `CASE` | Identify contracts requiring review and categorise renewal timing. |
+| `NULLIF` | Handle division-by-zero scenarios in discount calculations. |
+| `COPY INTO` | Load staged contract data into Snowflake. |
+
+The resulting `CUSTOMER_CONTRACT_360` view combines extracted commercial attributes, SQL-derived metrics, supporting evidence and AI-generated recommendations.
+
+---
+
+## Dataset
+
+The project includes 100 synthetic customer contracts and a supporting dataset of 700 contractual clauses.
+
+| File | Description |
+|---|---|
+| `raw_contract_documents_100.csv` | 100 synthetic customer agreements containing complete `CONTRACT_RAW_TEXT`. |
+| `customer_contract_360_100.csv` | Illustrative dataset with 68 customer and contract intelligence attributes. |
+| `contract_clauses_700.csv` | 700 synthetic contractual clauses with supporting evidence. |
+| `snowflake_contract_intelligence.sql` | Snowflake Cortex AI extraction, classification and transformation pipeline. |
+| `index.html` | Interactive dashboard hosted through GitHub Pages. |
+
+**Data provenance:** All customer names, financial values, contractual terms and commercial scenarios are fictional. The illustrative dashboard dataset was generated independently and is not the output of the Snowflake SQL pipeline.
+
+---
+
+## Running the Snowflake Pipeline
+
+1. Open Snowflake Snowsight and select a warehouse and role with the required Cortex AI permissions.
+2. Open `snowflake_contract_intelligence.sql`.
+3. Create the database, schema, file format, stage and raw contract table.
+4. Upload `raw_contract_documents_100.csv` to the Snowflake stage.
+5. Execute `COPY INTO` to load the raw contract data.
+6. Run `AI_EXTRACT` against an initial sample of five contracts.
+7. Review the extracted JSON, confidence information where available, and supporting contract evidence.
+8. Run the classification and AI-generated insights stages.
+9. Expand processing to all 100 contracts after validating the initial results.
+10. Query the final `CUSTOMER_CONTRACT_360` view.
+
+**Execution status:** The SQL script is provided as an implementation example and has not yet been validated in a live Snowflake environment. Cortex AI calls may incur usage costs, and supported functions and models may vary by account and region.
+
+---
+
+## Business Value
+
+The project is designed around three questions that Customer Success Managers and Account Executives should be able to answer before a contract renewal.
+
+**1. What did we agree to?**
+
+Identify negotiated pricing, contractual exceptions, bespoke commitments and historical concessions.
+
+**2. What could impact the renewal?**
+
+Surface upcoming notice deadlines, discount expiry conditions, pricing restrictions and contractual obligations.
+
+**3. What should we investigate next?**
+
+Turn extracted contract evidence into commercially relevant follow-up actions, such as validating discount eligibility, reviewing renewal pricing or investigating expansion opportunities.
+
+The objective is to move beyond basic contract storage and enable proactive, data-driven account management.
+
+---
+
+## Future Enhancements
+
+- Connect the interactive dashboard directly to Snowflake using Streamlit.
+- Process actual PDF contracts and amendments using `AI_PARSE_DOCUMENT`.
+- Integrate CRM, billing, customer support and product usage data.
+- Introduce clause-level source citations and amendment precedence validation.
+- Implement human-in-the-loop verification for commercially sensitive clauses.
+- Build automated renewal risk alerts and commercial opportunity identification.
+
+---
+
+## Tech Stack
+
+**Data Platform:** Snowflake
+
+**AI:** Snowflake Cortex AI (`AI_EXTRACT`, `AI_CLASSIFY`, `AI_COMPLETE`)
+
+**Data Processing:** SQL, CSV ingestion, JSON extraction and transformations
+
+**Frontend:** HTML, CSS, JavaScript
+
+**Deployment:** GitHub Pages
+
+---
+
+### 🔗 Project Links
+
+**[Explore the Interactive Dashboard ↗](https://anushri-22.github.io/customer-contract-intelligence/)**
+
+**[Snowflake Cortex AI Documentation ↗](https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql)**
+
+---
+
+*Portfolio project demonstrating the application of Snowflake Cortex AI and SQL to customer contract intelligence, commercial analytics and SaaS renewal management.*
