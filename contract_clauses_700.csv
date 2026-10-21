@@ -1,0 +1,701 @@
+﻿CLAUSE_ID,CONTRACT_ID,DOCUMENT_ID,CLAUSE_CATEGORY,CLAUSE_REFERENCE,SOURCE_EVIDENCE_TEXT,AI_EXTRACTION_METHOD,REVIEW_REQUIRED
+CL-001-01,CTR-001,DOC-001-MSA,Discount,2.1,A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-001-02,CTR-001,DOC-001-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-001-03,CTR-001,DOC-001-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-001-04,CTR-001,DOC-001-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-001-05,CTR-001,DOC-001-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-001-06,CTR-001,DOC-001-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-001-07,CTR-001,DOC-001-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-002-01,CTR-002,DOC-002-MSA,Discount,2.1,A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-002-02,CTR-002,DOC-002-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-002-03,CTR-002,DOC-002-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-002-04,CTR-002,DOC-002-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-002-05,CTR-002,DOC-002-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-002-06,CTR-002,DOC-002-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-002-07,CTR-002,DOC-002-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-01,CTR-003,DOC-003-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-02,CTR-003,DOC-003-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-03,CTR-003,DOC-003-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-04,CTR-003,DOC-003-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-05,CTR-003,DOC-003-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-06,CTR-003,DOC-003-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-003-07,CTR-003,DOC-003-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-004-01,CTR-004,DOC-004-MSA,Discount,2.1,A 15% competitive discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-004-02,CTR-004,DOC-004-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-004-03,CTR-004,DOC-004-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-004-04,CTR-004,DOC-004-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-004-05,CTR-004,DOC-004-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-004-06,CTR-004,DOC-004-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-004-07,CTR-004,DOC-004-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-005-01,CTR-005,DOC-005-MSA,Discount,2.1,A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-005-02,CTR-005,DOC-005-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-005-03,CTR-005,DOC-005-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-005-04,CTR-005,DOC-005-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-005-05,CTR-005,DOC-005-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-005-06,CTR-005,DOC-005-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-005-07,CTR-005,DOC-005-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-006-01,CTR-006,DOC-006-MSA,Discount,2.1,A 15% volume discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-006-02,CTR-006,DOC-006-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-006-03,CTR-006,DOC-006-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-006-04,CTR-006,DOC-006-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-006-05,CTR-006,DOC-006-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-006-06,CTR-006,DOC-006-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-006-07,CTR-006,DOC-006-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-007-01,CTR-007,DOC-007-MSA,Discount,2.1,A 30% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-007-02,CTR-007,DOC-007-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-007-03,CTR-007,DOC-007-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-007-04,CTR-007,DOC-007-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-007-05,CTR-007,DOC-007-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-007-06,CTR-007,DOC-007-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-007-07,CTR-007,DOC-007-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-008-01,CTR-008,DOC-008-MSA,Discount,2.1,A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-008-02,CTR-008,DOC-008-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-008-03,CTR-008,DOC-008-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-008-04,CTR-008,DOC-008-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-008-05,CTR-008,DOC-008-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-008-06,CTR-008,DOC-008-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-008-07,CTR-008,DOC-008-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-009-01,CTR-009,DOC-009-MSA,Discount,2.1,A 10% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-009-02,CTR-009,DOC-009-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-009-03,CTR-009,DOC-009-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-009-04,CTR-009,DOC-009-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-009-05,CTR-009,DOC-009-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-009-06,CTR-009,DOC-009-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-009-07,CTR-009,DOC-009-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-010-01,CTR-010,DOC-010-MSA,Discount,2.1,A 15% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-010-02,CTR-010,DOC-010-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-010-03,CTR-010,DOC-010-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-010-04,CTR-010,DOC-010-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-010-05,CTR-010,DOC-010-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-010-06,CTR-010,DOC-010-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-010-07,CTR-010,DOC-010-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-01,CTR-011,DOC-011-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-02,CTR-011,DOC-011-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-03,CTR-011,DOC-011-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-04,CTR-011,DOC-011-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-05,CTR-011,DOC-011-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-06,CTR-011,DOC-011-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-011-07,CTR-011,DOC-011-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-012-01,CTR-012,DOC-012-MSA,Discount,2.1,A 25% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-012-02,CTR-012,DOC-012-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-012-03,CTR-012,DOC-012-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-012-04,CTR-012,DOC-012-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-012-05,CTR-012,DOC-012-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-012-06,CTR-012,DOC-012-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-012-07,CTR-012,DOC-012-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-013-01,CTR-013,DOC-013-MSA,Discount,2.1,A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-013-02,CTR-013,DOC-013-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-013-03,CTR-013,DOC-013-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-013-04,CTR-013,DOC-013-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-013-05,CTR-013,DOC-013-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-013-06,CTR-013,DOC-013-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-013-07,CTR-013,DOC-013-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-014-01,CTR-014,DOC-014-MSA,Discount,2.1,A 25% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-014-02,CTR-014,DOC-014-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-014-03,CTR-014,DOC-014-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-014-04,CTR-014,DOC-014-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-014-05,CTR-014,DOC-014-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-014-06,CTR-014,DOC-014-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-014-07,CTR-014,DOC-014-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-01,CTR-015,DOC-015-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-02,CTR-015,DOC-015-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-03,CTR-015,DOC-015-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-04,CTR-015,DOC-015-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-05,CTR-015,DOC-015-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-06,CTR-015,DOC-015-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-015-07,CTR-015,DOC-015-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-016-01,CTR-016,DOC-016-MSA,Discount,2.1,A 15% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-016-02,CTR-016,DOC-016-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-016-03,CTR-016,DOC-016-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-016-04,CTR-016,DOC-016-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-016-05,CTR-016,DOC-016-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-016-06,CTR-016,DOC-016-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-016-07,CTR-016,DOC-016-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-017-01,CTR-017,DOC-017-MSA,Discount,2.1,A 30% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-017-02,CTR-017,DOC-017-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-017-03,CTR-017,DOC-017-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-017-04,CTR-017,DOC-017-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-017-05,CTR-017,DOC-017-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-017-06,CTR-017,DOC-017-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-017-07,CTR-017,DOC-017-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-018-01,CTR-018,DOC-018-MSA,Discount,2.1,A 10% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-018-02,CTR-018,DOC-018-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-018-03,CTR-018,DOC-018-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-018-04,CTR-018,DOC-018-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-018-05,CTR-018,DOC-018-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-018-06,CTR-018,DOC-018-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-018-07,CTR-018,DOC-018-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-019-01,CTR-019,DOC-019-MSA,Discount,2.1,A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-019-02,CTR-019,DOC-019-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-019-03,CTR-019,DOC-019-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-019-04,CTR-019,DOC-019-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-019-05,CTR-019,DOC-019-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-019-06,CTR-019,DOC-019-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-019-07,CTR-019,DOC-019-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-01,CTR-020,DOC-020-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-02,CTR-020,DOC-020-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-03,CTR-020,DOC-020-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-04,CTR-020,DOC-020-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-05,CTR-020,DOC-020-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-06,CTR-020,DOC-020-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-020-07,CTR-020,DOC-020-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-021-01,CTR-021,DOC-021-MSA,Discount,2.1,A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-021-02,CTR-021,DOC-021-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-021-03,CTR-021,DOC-021-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-021-04,CTR-021,DOC-021-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-021-05,CTR-021,DOC-021-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-021-06,CTR-021,DOC-021-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-021-07,CTR-021,DOC-021-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-022-01,CTR-022,DOC-022-MSA,Discount,2.1,A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-022-02,CTR-022,DOC-022-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-022-03,CTR-022,DOC-022-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-022-04,CTR-022,DOC-022-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-022-05,CTR-022,DOC-022-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-022-06,CTR-022,DOC-022-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-022-07,CTR-022,DOC-022-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-023-01,CTR-023,DOC-023-MSA,Discount,2.1,A 25% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-023-02,CTR-023,DOC-023-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-023-03,CTR-023,DOC-023-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-023-04,CTR-023,DOC-023-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-023-05,CTR-023,DOC-023-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-023-06,CTR-023,DOC-023-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-023-07,CTR-023,DOC-023-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-01,CTR-024,DOC-024-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-02,CTR-024,DOC-024-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-03,CTR-024,DOC-024-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-04,CTR-024,DOC-024-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-05,CTR-024,DOC-024-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-06,CTR-024,DOC-024-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-024-07,CTR-024,DOC-024-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-025-01,CTR-025,DOC-025-MSA,Discount,2.1,A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-025-02,CTR-025,DOC-025-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-025-03,CTR-025,DOC-025-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-025-04,CTR-025,DOC-025-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-025-05,CTR-025,DOC-025-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-025-06,CTR-025,DOC-025-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-025-07,CTR-025,DOC-025-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-01,CTR-026,DOC-026-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-02,CTR-026,DOC-026-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-03,CTR-026,DOC-026-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-04,CTR-026,DOC-026-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-05,CTR-026,DOC-026-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-06,CTR-026,DOC-026-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-026-07,CTR-026,DOC-026-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-027-01,CTR-027,DOC-027-MSA,Discount,2.1,A 20% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-027-02,CTR-027,DOC-027-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-027-03,CTR-027,DOC-027-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-027-04,CTR-027,DOC-027-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-027-05,CTR-027,DOC-027-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-027-06,CTR-027,DOC-027-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-027-07,CTR-027,DOC-027-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-028-01,CTR-028,DOC-028-MSA,Discount,2.1,A 25% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-028-02,CTR-028,DOC-028-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-028-03,CTR-028,DOC-028-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-028-04,CTR-028,DOC-028-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-028-05,CTR-028,DOC-028-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-028-06,CTR-028,DOC-028-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-028-07,CTR-028,DOC-028-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-01,CTR-029,DOC-029-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-02,CTR-029,DOC-029-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-03,CTR-029,DOC-029-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-04,CTR-029,DOC-029-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-05,CTR-029,DOC-029-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-06,CTR-029,DOC-029-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-029-07,CTR-029,DOC-029-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-030-01,CTR-030,DOC-030-MSA,Discount,2.1,A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-030-02,CTR-030,DOC-030-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-030-03,CTR-030,DOC-030-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-030-04,CTR-030,DOC-030-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-030-05,CTR-030,DOC-030-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-030-06,CTR-030,DOC-030-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-030-07,CTR-030,DOC-030-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-031-01,CTR-031,DOC-031-MSA,Discount,2.1,A 20% introductory discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-031-02,CTR-031,DOC-031-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-031-03,CTR-031,DOC-031-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-031-04,CTR-031,DOC-031-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-031-05,CTR-031,DOC-031-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-031-06,CTR-031,DOC-031-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-031-07,CTR-031,DOC-031-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-032-01,CTR-032,DOC-032-MSA,Discount,2.1,A 15% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-032-02,CTR-032,DOC-032-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-032-03,CTR-032,DOC-032-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-032-04,CTR-032,DOC-032-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-032-05,CTR-032,DOC-032-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-032-06,CTR-032,DOC-032-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-032-07,CTR-032,DOC-032-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-033-01,CTR-033,DOC-033-MSA,Discount,2.1,A 30% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-033-02,CTR-033,DOC-033-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-033-03,CTR-033,DOC-033-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-033-04,CTR-033,DOC-033-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-033-05,CTR-033,DOC-033-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-033-06,CTR-033,DOC-033-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-033-07,CTR-033,DOC-033-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-034-01,CTR-034,DOC-034-MSA,Discount,2.1,A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-034-02,CTR-034,DOC-034-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-034-03,CTR-034,DOC-034-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-034-04,CTR-034,DOC-034-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-034-05,CTR-034,DOC-034-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-034-06,CTR-034,DOC-034-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-034-07,CTR-034,DOC-034-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-035-01,CTR-035,DOC-035-MSA,Discount,2.1,A 25% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-035-02,CTR-035,DOC-035-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-035-03,CTR-035,DOC-035-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-035-04,CTR-035,DOC-035-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-035-05,CTR-035,DOC-035-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-035-06,CTR-035,DOC-035-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-035-07,CTR-035,DOC-035-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-036-01,CTR-036,DOC-036-MSA,Discount,2.1,A 15% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-036-02,CTR-036,DOC-036-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-036-03,CTR-036,DOC-036-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-036-04,CTR-036,DOC-036-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-036-05,CTR-036,DOC-036-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-036-06,CTR-036,DOC-036-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-036-07,CTR-036,DOC-036-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-037-01,CTR-037,DOC-037-MSA,Discount,2.1,A 30% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-037-02,CTR-037,DOC-037-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-037-03,CTR-037,DOC-037-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-037-04,CTR-037,DOC-037-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-037-05,CTR-037,DOC-037-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-037-06,CTR-037,DOC-037-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-037-07,CTR-037,DOC-037-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-01,CTR-038,DOC-038-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-02,CTR-038,DOC-038-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-03,CTR-038,DOC-038-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-04,CTR-038,DOC-038-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-05,CTR-038,DOC-038-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-06,CTR-038,DOC-038-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-038-07,CTR-038,DOC-038-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-039-01,CTR-039,DOC-039-MSA,Discount,2.1,A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-039-02,CTR-039,DOC-039-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-039-03,CTR-039,DOC-039-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-039-04,CTR-039,DOC-039-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-039-05,CTR-039,DOC-039-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-039-06,CTR-039,DOC-039-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-039-07,CTR-039,DOC-039-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-040-01,CTR-040,DOC-040-MSA,Discount,2.1,A 15% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-040-02,CTR-040,DOC-040-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-040-03,CTR-040,DOC-040-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-040-04,CTR-040,DOC-040-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-040-05,CTR-040,DOC-040-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-040-06,CTR-040,DOC-040-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-040-07,CTR-040,DOC-040-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-041-01,CTR-041,DOC-041-MSA,Discount,2.1,A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-041-02,CTR-041,DOC-041-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-041-03,CTR-041,DOC-041-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-041-04,CTR-041,DOC-041-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-041-05,CTR-041,DOC-041-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-041-06,CTR-041,DOC-041-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-041-07,CTR-041,DOC-041-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-042-01,CTR-042,DOC-042-MSA,Discount,2.1,A 10% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-042-02,CTR-042,DOC-042-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-042-03,CTR-042,DOC-042-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-042-04,CTR-042,DOC-042-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-042-05,CTR-042,DOC-042-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-042-06,CTR-042,DOC-042-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-042-07,CTR-042,DOC-042-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-043-01,CTR-043,DOC-043-MSA,Discount,2.1,A 10% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-043-02,CTR-043,DOC-043-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-043-03,CTR-043,DOC-043-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-043-04,CTR-043,DOC-043-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-043-05,CTR-043,DOC-043-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-043-06,CTR-043,DOC-043-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-043-07,CTR-043,DOC-043-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-044-01,CTR-044,DOC-044-MSA,Discount,2.1,A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-044-02,CTR-044,DOC-044-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-044-03,CTR-044,DOC-044-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-044-04,CTR-044,DOC-044-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-044-05,CTR-044,DOC-044-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-044-06,CTR-044,DOC-044-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-044-07,CTR-044,DOC-044-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-045-01,CTR-045,DOC-045-MSA,Discount,2.1,A 25% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-045-02,CTR-045,DOC-045-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-045-03,CTR-045,DOC-045-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-045-04,CTR-045,DOC-045-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-045-05,CTR-045,DOC-045-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-045-06,CTR-045,DOC-045-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-045-07,CTR-045,DOC-045-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-01,CTR-046,DOC-046-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-02,CTR-046,DOC-046-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-03,CTR-046,DOC-046-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-04,CTR-046,DOC-046-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-05,CTR-046,DOC-046-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-06,CTR-046,DOC-046-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-046-07,CTR-046,DOC-046-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-047-01,CTR-047,DOC-047-MSA,Discount,2.1,A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-047-02,CTR-047,DOC-047-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-047-03,CTR-047,DOC-047-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-047-04,CTR-047,DOC-047-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-047-05,CTR-047,DOC-047-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-047-06,CTR-047,DOC-047-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-047-07,CTR-047,DOC-047-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-048-01,CTR-048,DOC-048-MSA,Discount,2.1,A 20% competitive discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-048-02,CTR-048,DOC-048-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-048-03,CTR-048,DOC-048-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-048-04,CTR-048,DOC-048-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-048-05,CTR-048,DOC-048-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-048-06,CTR-048,DOC-048-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-048-07,CTR-048,DOC-048-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-01,CTR-049,DOC-049-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-02,CTR-049,DOC-049-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-03,CTR-049,DOC-049-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-04,CTR-049,DOC-049-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-05,CTR-049,DOC-049-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-06,CTR-049,DOC-049-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-049-07,CTR-049,DOC-049-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-050-01,CTR-050,DOC-050-MSA,Discount,2.1,A 5% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-050-02,CTR-050,DOC-050-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-050-03,CTR-050,DOC-050-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-050-04,CTR-050,DOC-050-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-050-05,CTR-050,DOC-050-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-050-06,CTR-050,DOC-050-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-050-07,CTR-050,DOC-050-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-051-01,CTR-051,DOC-051-MSA,Discount,2.1,A 25% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-051-02,CTR-051,DOC-051-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-051-03,CTR-051,DOC-051-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-051-04,CTR-051,DOC-051-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-051-05,CTR-051,DOC-051-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-051-06,CTR-051,DOC-051-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-051-07,CTR-051,DOC-051-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-052-01,CTR-052,DOC-052-MSA,Discount,2.1,A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-052-02,CTR-052,DOC-052-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-052-03,CTR-052,DOC-052-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-052-04,CTR-052,DOC-052-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-052-05,CTR-052,DOC-052-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-052-06,CTR-052,DOC-052-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-052-07,CTR-052,DOC-052-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-053-01,CTR-053,DOC-053-MSA,Discount,2.1,A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-053-02,CTR-053,DOC-053-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-053-03,CTR-053,DOC-053-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-053-04,CTR-053,DOC-053-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-053-05,CTR-053,DOC-053-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-053-06,CTR-053,DOC-053-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-053-07,CTR-053,DOC-053-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-054-01,CTR-054,DOC-054-MSA,Discount,2.1,A 30% competitive discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-054-02,CTR-054,DOC-054-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-054-03,CTR-054,DOC-054-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-054-04,CTR-054,DOC-054-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-054-05,CTR-054,DOC-054-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-054-06,CTR-054,DOC-054-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-054-07,CTR-054,DOC-054-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-01,CTR-055,DOC-055-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-02,CTR-055,DOC-055-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-03,CTR-055,DOC-055-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-04,CTR-055,DOC-055-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-05,CTR-055,DOC-055-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-06,CTR-055,DOC-055-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-055-07,CTR-055,DOC-055-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-056-01,CTR-056,DOC-056-MSA,Discount,2.1,A 25% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-056-02,CTR-056,DOC-056-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-056-03,CTR-056,DOC-056-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-056-04,CTR-056,DOC-056-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-056-05,CTR-056,DOC-056-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-056-06,CTR-056,DOC-056-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-056-07,CTR-056,DOC-056-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-057-01,CTR-057,DOC-057-MSA,Discount,2.1,A 30% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-057-02,CTR-057,DOC-057-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-057-03,CTR-057,DOC-057-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-057-04,CTR-057,DOC-057-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-057-05,CTR-057,DOC-057-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-057-06,CTR-057,DOC-057-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-057-07,CTR-057,DOC-057-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-01,CTR-058,DOC-058-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-02,CTR-058,DOC-058-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-03,CTR-058,DOC-058-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-04,CTR-058,DOC-058-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-05,CTR-058,DOC-058-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-06,CTR-058,DOC-058-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-058-07,CTR-058,DOC-058-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-059-01,CTR-059,DOC-059-MSA,Discount,2.1,A 30% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-059-02,CTR-059,DOC-059-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-059-03,CTR-059,DOC-059-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-059-04,CTR-059,DOC-059-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-059-05,CTR-059,DOC-059-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-059-06,CTR-059,DOC-059-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-059-07,CTR-059,DOC-059-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-060-01,CTR-060,DOC-060-MSA,Discount,2.1,A 30% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-060-02,CTR-060,DOC-060-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-060-03,CTR-060,DOC-060-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-060-04,CTR-060,DOC-060-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-060-05,CTR-060,DOC-060-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-060-06,CTR-060,DOC-060-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-060-07,CTR-060,DOC-060-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-061-01,CTR-061,DOC-061-MSA,Discount,2.1,A 20% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-061-02,CTR-061,DOC-061-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-061-03,CTR-061,DOC-061-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-061-04,CTR-061,DOC-061-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-061-05,CTR-061,DOC-061-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-061-06,CTR-061,DOC-061-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-061-07,CTR-061,DOC-061-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-062-01,CTR-062,DOC-062-MSA,Discount,2.1,A 15% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-062-02,CTR-062,DOC-062-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-062-03,CTR-062,DOC-062-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-062-04,CTR-062,DOC-062-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-062-05,CTR-062,DOC-062-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-062-06,CTR-062,DOC-062-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-062-07,CTR-062,DOC-062-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-063-01,CTR-063,DOC-063-MSA,Discount,2.1,A 30% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-063-02,CTR-063,DOC-063-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-063-03,CTR-063,DOC-063-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-063-04,CTR-063,DOC-063-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-063-05,CTR-063,DOC-063-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-063-06,CTR-063,DOC-063-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-063-07,CTR-063,DOC-063-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-064-01,CTR-064,DOC-064-MSA,Discount,2.1,A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-064-02,CTR-064,DOC-064-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-064-03,CTR-064,DOC-064-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-064-04,CTR-064,DOC-064-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-064-05,CTR-064,DOC-064-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-064-06,CTR-064,DOC-064-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-064-07,CTR-064,DOC-064-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-01,CTR-065,DOC-065-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-02,CTR-065,DOC-065-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-03,CTR-065,DOC-065-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-04,CTR-065,DOC-065-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-05,CTR-065,DOC-065-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-06,CTR-065,DOC-065-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-065-07,CTR-065,DOC-065-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-066-01,CTR-066,DOC-066-MSA,Discount,2.1,A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-066-02,CTR-066,DOC-066-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-066-03,CTR-066,DOC-066-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-066-04,CTR-066,DOC-066-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-066-05,CTR-066,DOC-066-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-066-06,CTR-066,DOC-066-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-066-07,CTR-066,DOC-066-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-067-01,CTR-067,DOC-067-MSA,Discount,2.1,A 10% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-067-02,CTR-067,DOC-067-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-067-03,CTR-067,DOC-067-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-067-04,CTR-067,DOC-067-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-067-05,CTR-067,DOC-067-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-067-06,CTR-067,DOC-067-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-067-07,CTR-067,DOC-067-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-068-01,CTR-068,DOC-068-MSA,Discount,2.1,A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-068-02,CTR-068,DOC-068-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-068-03,CTR-068,DOC-068-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-068-04,CTR-068,DOC-068-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-068-05,CTR-068,DOC-068-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-068-06,CTR-068,DOC-068-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-068-07,CTR-068,DOC-068-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-069-01,CTR-069,DOC-069-MSA,Discount,2.1,A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-069-02,CTR-069,DOC-069-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-069-03,CTR-069,DOC-069-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-069-04,CTR-069,DOC-069-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-069-05,CTR-069,DOC-069-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-069-06,CTR-069,DOC-069-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-069-07,CTR-069,DOC-069-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-070-01,CTR-070,DOC-070-MSA,Discount,2.1,A 20% introductory discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-070-02,CTR-070,DOC-070-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-070-03,CTR-070,DOC-070-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-070-04,CTR-070,DOC-070-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-070-05,CTR-070,DOC-070-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-070-06,CTR-070,DOC-070-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-070-07,CTR-070,DOC-070-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-071-01,CTR-071,DOC-071-MSA,Discount,2.1,A 20% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-071-02,CTR-071,DOC-071-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-071-03,CTR-071,DOC-071-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-071-04,CTR-071,DOC-071-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-071-05,CTR-071,DOC-071-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-071-06,CTR-071,DOC-071-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-071-07,CTR-071,DOC-071-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-072-01,CTR-072,DOC-072-MSA,Discount,2.1,A 15% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-072-02,CTR-072,DOC-072-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-072-03,CTR-072,DOC-072-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-072-04,CTR-072,DOC-072-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-072-05,CTR-072,DOC-072-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-072-06,CTR-072,DOC-072-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-072-07,CTR-072,DOC-072-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-073-01,CTR-073,DOC-073-MSA,Discount,2.1,A 5% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-073-02,CTR-073,DOC-073-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-073-03,CTR-073,DOC-073-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-073-04,CTR-073,DOC-073-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-073-05,CTR-073,DOC-073-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-073-06,CTR-073,DOC-073-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-073-07,CTR-073,DOC-073-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-01,CTR-074,DOC-074-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-02,CTR-074,DOC-074-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-03,CTR-074,DOC-074-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-04,CTR-074,DOC-074-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-05,CTR-074,DOC-074-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-06,CTR-074,DOC-074-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-074-07,CTR-074,DOC-074-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-075-01,CTR-075,DOC-075-MSA,Discount,2.1,A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-075-02,CTR-075,DOC-075-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-075-03,CTR-075,DOC-075-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-075-04,CTR-075,DOC-075-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-075-05,CTR-075,DOC-075-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-075-06,CTR-075,DOC-075-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-075-07,CTR-075,DOC-075-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-076-01,CTR-076,DOC-076-MSA,Discount,2.1,A 10% none discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-076-02,CTR-076,DOC-076-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-076-03,CTR-076,DOC-076-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-076-04,CTR-076,DOC-076-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-076-05,CTR-076,DOC-076-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-076-06,CTR-076,DOC-076-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-076-07,CTR-076,DOC-076-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-077-01,CTR-077,DOC-077-MSA,Discount,2.1,A 25% introductory discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-077-02,CTR-077,DOC-077-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-077-03,CTR-077,DOC-077-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-077-04,CTR-077,DOC-077-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-077-05,CTR-077,DOC-077-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-077-06,CTR-077,DOC-077-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-077-07,CTR-077,DOC-077-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-01,CTR-078,DOC-078-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-02,CTR-078,DOC-078-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-03,CTR-078,DOC-078-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-04,CTR-078,DOC-078-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-05,CTR-078,DOC-078-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-06,CTR-078,DOC-078-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-078-07,CTR-078,DOC-078-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-01,CTR-079,DOC-079-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-02,CTR-079,DOC-079-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-03,CTR-079,DOC-079-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-04,CTR-079,DOC-079-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-05,CTR-079,DOC-079-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-06,CTR-079,DOC-079-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-079-07,CTR-079,DOC-079-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-080-01,CTR-080,DOC-080-MSA,Discount,2.1,A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-080-02,CTR-080,DOC-080-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-080-03,CTR-080,DOC-080-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-080-04,CTR-080,DOC-080-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-080-05,CTR-080,DOC-080-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-080-06,CTR-080,DOC-080-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-080-07,CTR-080,DOC-080-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-081-01,CTR-081,DOC-081-MSA,Discount,2.1,A 25% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-081-02,CTR-081,DOC-081-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-081-03,CTR-081,DOC-081-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-081-04,CTR-081,DOC-081-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-081-05,CTR-081,DOC-081-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-081-06,CTR-081,DOC-081-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-081-07,CTR-081,DOC-081-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-082-01,CTR-082,DOC-082-MSA,Discount,2.1,A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-082-02,CTR-082,DOC-082-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-082-03,CTR-082,DOC-082-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-082-04,CTR-082,DOC-082-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-082-05,CTR-082,DOC-082-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-082-06,CTR-082,DOC-082-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-082-07,CTR-082,DOC-082-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-083-01,CTR-083,DOC-083-MSA,Discount,2.1,A 20% competitive discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-083-02,CTR-083,DOC-083-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-083-03,CTR-083,DOC-083-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-083-04,CTR-083,DOC-083-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-083-05,CTR-083,DOC-083-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-083-06,CTR-083,DOC-083-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-083-07,CTR-083,DOC-083-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-084-01,CTR-084,DOC-084-MSA,Discount,2.1,A 25% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-084-02,CTR-084,DOC-084-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-084-03,CTR-084,DOC-084-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-084-04,CTR-084,DOC-084-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-084-05,CTR-084,DOC-084-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-084-06,CTR-084,DOC-084-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-084-07,CTR-084,DOC-084-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-085-01,CTR-085,DOC-085-MSA,Discount,2.1,A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-085-02,CTR-085,DOC-085-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-085-03,CTR-085,DOC-085-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-085-04,CTR-085,DOC-085-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-085-05,CTR-085,DOC-085-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-085-06,CTR-085,DOC-085-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-085-07,CTR-085,DOC-085-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-086-01,CTR-086,DOC-086-MSA,Discount,2.1,A 30% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-086-02,CTR-086,DOC-086-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-086-03,CTR-086,DOC-086-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-086-04,CTR-086,DOC-086-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-086-05,CTR-086,DOC-086-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-086-06,CTR-086,DOC-086-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-086-07,CTR-086,DOC-086-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-087-01,CTR-087,DOC-087-MSA,Discount,2.1,A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal.,AI_EXTRACT + AI_CLASSIFY,False
+CL-087-02,CTR-087,DOC-087-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-087-03,CTR-087,DOC-087-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-087-04,CTR-087,DOC-087-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-087-05,CTR-087,DOC-087-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-087-06,CTR-087,DOC-087-MSA,Customer commitment,7,Dedicated onboarding specialist,AI_EXTRACT + AI_CLASSIFY,False
+CL-087-07,CTR-087,DOC-087-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-088-01,CTR-088,DOC-088-MSA,Discount,2.1,A 15% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-088-02,CTR-088,DOC-088-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-088-03,CTR-088,DOC-088-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-088-04,CTR-088,DOC-088-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-088-05,CTR-088,DOC-088-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-088-06,CTR-088,DOC-088-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-088-07,CTR-088,DOC-088-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-089-01,CTR-089,DOC-089-MSA,Discount,2.1,A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-089-02,CTR-089,DOC-089-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-089-03,CTR-089,DOC-089-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-089-04,CTR-089,DOC-089-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-089-05,CTR-089,DOC-089-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-089-06,CTR-089,DOC-089-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-089-07,CTR-089,DOC-089-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-090-01,CTR-090,DOC-090-MSA,Discount,2.1,A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-090-02,CTR-090,DOC-090-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-090-03,CTR-090,DOC-090-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-090-04,CTR-090,DOC-090-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-090-05,CTR-090,DOC-090-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-090-06,CTR-090,DOC-090-MSA,Customer commitment,7,Bespoke API integration,AI_EXTRACT + AI_CLASSIFY,False
+CL-090-07,CTR-090,DOC-090-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-091-01,CTR-091,DOC-091-MSA,Discount,2.1,A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-091-02,CTR-091,DOC-091-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-091-03,CTR-091,DOC-091-MSA,Price uplift,4,Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-091-04,CTR-091,DOC-091-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-091-05,CTR-091,DOC-091-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-091-06,CTR-091,DOC-091-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-091-07,CTR-091,DOC-091-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-092-01,CTR-092,DOC-092-MSA,Discount,2.1,A 20% strategic discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-092-02,CTR-092,DOC-092-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-092-03,CTR-092,DOC-092-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-092-04,CTR-092,DOC-092-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-092-05,CTR-092,DOC-092-MSA,SLA,6,99.5% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-092-06,CTR-092,DOC-092-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-092-07,CTR-092,DOC-092-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-093-01,CTR-093,DOC-093-MSA,Discount,2.1,A 25% introductory discount is applied to the initial subscription price. Discount treatment at renewal: unclear.,AI_EXTRACT + AI_CLASSIFY,False
+CL-093-02,CTR-093,DOC-093-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-093-03,CTR-093,DOC-093-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-093-04,CTR-093,DOC-093-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-093-05,CTR-093,DOC-093-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-093-06,CTR-093,DOC-093-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-093-07,CTR-093,DOC-093-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-01,CTR-094,DOC-094-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-02,CTR-094,DOC-094-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-03,CTR-094,DOC-094-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-04,CTR-094,DOC-094-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-05,CTR-094,DOC-094-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-06,CTR-094,DOC-094-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-094-07,CTR-094,DOC-094-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-095-01,CTR-095,DOC-095-MSA,Discount,2.1,A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-095-02,CTR-095,DOC-095-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 60 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-095-03,CTR-095,DOC-095-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-095-04,CTR-095,DOC-095-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-095-05,CTR-095,DOC-095-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-095-06,CTR-095,DOC-095-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-095-07,CTR-095,DOC-095-MSA,Procurement,8,Standard procurement,AI_EXTRACT + AI_CLASSIFY,False
+CL-096-01,CTR-096,DOC-096-MSA,Discount,2.1,A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation.,AI_EXTRACT + AI_CLASSIFY,False
+CL-096-02,CTR-096,DOC-096-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-096-03,CTR-096,DOC-096-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-096-04,CTR-096,DOC-096-MSA,Termination,5,No early convenience termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-096-05,CTR-096,DOC-096-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-096-06,CTR-096,DOC-096-MSA,Customer commitment,7,None,AI_EXTRACT + AI_CLASSIFY,False
+CL-096-07,CTR-096,DOC-096-MSA,Procurement,8,PO required 60 days before renewal,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-01,CTR-097,DOC-097-MSA,Discount,2.1,No discount applies to the subscription fee.,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-02,CTR-097,DOC-097-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-03,CTR-097,DOC-097-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-04,CTR-097,DOC-097-MSA,Termination,5,Standard breach termination,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-05,CTR-097,DOC-097-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-06,CTR-097,DOC-097-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-097-07,CTR-097,DOC-097-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-098-01,CTR-098,DOC-098-MSA,Discount,2.1,A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-098-02,CTR-098,DOC-098-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-098-03,CTR-098,DOC-098-MSA,Price uplift,4,Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-098-04,CTR-098,DOC-098-MSA,Termination,5,Early exit after year one,AI_EXTRACT + AI_CLASSIFY,False
+CL-098-05,CTR-098,DOC-098-MSA,SLA,6,4-hour P1 response,AI_EXTRACT + AI_CLASSIFY,False
+CL-098-06,CTR-098,DOC-098-MSA,Customer commitment,7,Custom data retention period,AI_EXTRACT + AI_CLASSIFY,False
+CL-098-07,CTR-098,DOC-098-MSA,Procurement,8,Legal review before signature,AI_EXTRACT + AI_CLASSIFY,False
+CL-099-01,CTR-099,DOC-099-MSA,Discount,2.1,A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-099-02,CTR-099,DOC-099-MSA,Renewal,3,Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-099-03,CTR-099,DOC-099-MSA,Price uplift,4,Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-099-04,CTR-099,DOC-099-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-099-05,CTR-099,DOC-099-MSA,SLA,6,Standard SLA,AI_EXTRACT + AI_CLASSIFY,False
+CL-099-06,CTR-099,DOC-099-MSA,Customer commitment,7,Priority support response,AI_EXTRACT + AI_CLASSIFY,False
+CL-099-07,CTR-099,DOC-099-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False
+CL-100-01,CTR-100,DOC-100-MSA,Discount,2.1,A 15% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only.,AI_EXTRACT + AI_CLASSIFY,False
+CL-100-02,CTR-100,DOC-100-MSA,Renewal,3,Requires written agreement to renew. Written notice period: 120 days before the expiry date.,AI_EXTRACT + AI_CLASSIFY,False
+CL-100-03,CTR-100,DOC-100-MSA,Price uplift,4,Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.,AI_EXTRACT + AI_CLASSIFY,True
+CL-100-04,CTR-100,DOC-100-MSA,Termination,5,Convenience termination with 60-day notice,AI_EXTRACT + AI_CLASSIFY,False
+CL-100-05,CTR-100,DOC-100-MSA,SLA,6,99.9% availability,AI_EXTRACT + AI_CLASSIFY,False
+CL-100-06,CTR-100,DOC-100-MSA,Customer commitment,7,Quarterly executive review,AI_EXTRACT + AI_CLASSIFY,False
+CL-100-07,CTR-100,DOC-100-MSA,Procurement,8,Board approval for uplifts >5%,AI_EXTRACT + AI_CLASSIFY,False

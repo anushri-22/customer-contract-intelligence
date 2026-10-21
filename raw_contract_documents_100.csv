@@ -1,0 +1,2001 @@
+﻿DOCUMENT_ID,CUSTOMER_ID,CONTRACT_ID,DOCUMENT_TYPE,SOURCE_FILE_NAME,CONTRACT_RAW_TEXT,EXTRACTION_STATUS,PROCESSED_AT,TEXT_LENGTH
+DOC-001-MSA,CUST-001,CTR-001,Master Agreement,contract_001.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-001-MSA
+Customer: Northstar Learning Ltd
+Contract reference: CTR-001
+
+1. TERM. The agreement begins 2024-08-12 and expires 2027-08-12. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 112,500.00; undiscounted annual list price GBP 125,000.00.
+2.1 DISCOUNTS. A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 400. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1299
+DOC-002-MSA,CUST-002,CTR-002,Master Agreement,contract_002.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-002-MSA
+Customer: Oakbridge Learning Ltd
+Contract reference: CTR-002
+
+1. TERM. The agreement begins 2025-03-23 and expires 2028-03-23. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 105,000.00; undiscounted annual list price GBP 110,526.32.
+2.1 DISCOUNTS. A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 740. Products: AI Assist, Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1281
+DOC-003-MSA,CUST-003,CTR-003,Master Agreement,contract_003.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-003-MSA
+Customer: Meridian Learning Ltd
+Contract reference: CTR-003
+
+1. TERM. The agreement begins 2026-10-07 and expires 2028-10-07. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 137,500.00; undiscounted annual list price GBP 137,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 280. Products: Compliance Hub, Core LMS, AI Assist, Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1256
+DOC-004-MSA,CUST-004,CTR-004,Master Agreement,contract_004.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-004-MSA
+Customer: Bluewater Learning Ltd
+Contract reference: CTR-004
+
+1. TERM. The agreement begins 2023-05-18 and expires 2027-05-18. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 120,000.00; undiscounted annual list price GBP 141,176.47.
+2.1 DISCOUNTS. A 15% competitive discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 100. Products: Analytics, AI Assist, Core LMS.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1330
+DOC-005-MSA,CUST-005,CTR-005,Master Agreement,contract_005.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-005-MSA
+Customer: Cedar Learning Ltd
+Contract reference: CTR-005
+
+1. TERM. The agreement begins 2024-12-02 and expires 2026-12-02. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 85,000.00; undiscounted annual list price GBP 89,473.68.
+2.1 DISCOUNTS. A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 560. Products: Integrations, Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1287
+DOC-006-MSA,CUST-006,CTR-006,Master Agreement,contract_006.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-006-MSA
+Customer: Evergreen Learning Ltd
+Contract reference: CTR-006
+
+1. TERM. The agreement begins 2025-07-13 and expires 2027-07-13. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 195,000.00; undiscounted annual list price GBP 229,411.76.
+2.1 DISCOUNTS. A 15% volume discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 340. Products: Compliance Hub, Learner Portal, Core LMS, Integrations.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1333
+DOC-007-MSA,CUST-007,CTR-007,Master Agreement,contract_007.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-007-MSA
+Customer: Horizon Learning Ltd
+Contract reference: CTR-007
+
+1. TERM. The agreement begins 2026-02-24 and expires 2028-02-24. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 77,500.00; undiscounted annual list price GBP 110,714.29.
+2.1 DISCOUNTS. A 30% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 640. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1305
+DOC-008-MSA,CUST-008,CTR-008,Master Agreement,contract_008.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-008-MSA
+Customer: Silverline Learning Ltd
+Contract reference: CTR-008
+
+1. TERM. The agreement begins 2023-09-08 and expires 2027-09-08. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 135,000.00; undiscounted annual list price GBP 142,105.26.
+2.1 DISCOUNTS. A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 560. Products: Compliance Hub, Core LMS, Integrations, Learner Portal.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1332
+DOC-009-MSA,CUST-009,CTR-009,Master Agreement,contract_009.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-009-MSA
+Customer: Westfield Learning Ltd
+Contract reference: CTR-009
+
+1. TERM. The agreement begins 2024-04-19 and expires 2027-04-19. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 135,000.00; undiscounted annual list price GBP 150,000.00.
+2.1 DISCOUNTS. A 10% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 700. Products: AI Assist.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1265
+DOC-010-MSA,CUST-010,CTR-010,Master Agreement,contract_010.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-010-MSA
+Customer: Brightpath Learning Ltd
+Contract reference: CTR-010
+
+1. TERM. The agreement begins 2025-11-03 and expires 2026-11-03. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 192,500.00; undiscounted annual list price GBP 226,470.59.
+2.1 DISCOUNTS. A 15% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 640. Products: AI Assist, Compliance Hub, Core LMS.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1288
+DOC-011-MSA,CUST-011,CTR-011,Master Agreement,contract_011.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-011-MSA
+Customer: Aster Learning Ltd
+Contract reference: CTR-011
+
+1. TERM. The agreement begins 2026-06-14 and expires 2029-06-14. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 72,500.00; undiscounted annual list price GBP 72,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 360. Products: AI Assist, Core LMS, Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1232
+DOC-012-MSA,CUST-012,CTR-012,Master Agreement,contract_012.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-012-MSA
+Customer: Pioneer Learning Ltd
+Contract reference: CTR-012
+
+1. TERM. The agreement begins 2023-01-25 and expires 2027-01-25. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 142,500.00; undiscounted annual list price GBP 190,000.00.
+2.1 DISCOUNTS. A 25% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 260. Products: Compliance Hub, Integrations, Analytics, Core LMS.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1317
+DOC-013-MSA,CUST-013,CTR-013,Master Agreement,contract_013.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-013-MSA
+Customer: Redwood Learning Ltd
+Contract reference: CTR-013
+
+1. TERM. The agreement begins 2024-08-09 and expires 2027-08-09. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 62,500.00; undiscounted annual list price GBP 65,789.47.
+2.1 DISCOUNTS. A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 260. Products: Core LMS.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1257
+DOC-014-MSA,CUST-014,CTR-014,Master Agreement,contract_014.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-014-MSA
+Customer: Summit Learning Ltd
+Contract reference: CTR-014
+
+1. TERM. The agreement begins 2025-03-20 and expires 2027-03-20. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 185,000.00; undiscounted annual list price GBP 246,666.67.
+2.1 DISCOUNTS. A 25% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 680. Products: Core LMS, AI Assist.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1293
+DOC-015-MSA,CUST-015,CTR-015,Master Agreement,contract_015.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-015-MSA
+Customer: Beacon Learning Ltd
+Contract reference: CTR-015
+
+1. TERM. The agreement begins 2026-10-04 and expires 2029-10-04. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 200,000.00; undiscounted annual list price GBP 200,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 320. Products: Analytics, Core LMS, Integrations, Compliance Hub.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1256
+DOC-016-MSA,CUST-016,CTR-016,Master Agreement,contract_016.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-016-MSA
+Customer: Riverside Learning Ltd
+Contract reference: CTR-016
+
+1. TERM. The agreement begins 2023-05-15 and expires 2027-05-15. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 40,000.00; undiscounted annual list price GBP 47,058.82.
+2.1 DISCOUNTS. A 15% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 200. Products: Integrations, Learner Portal, Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1270
+DOC-017-MSA,CUST-017,CTR-017,Master Agreement,contract_017.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-017-MSA
+Customer: Eastgate Learning Ltd
+Contract reference: CTR-017
+
+1. TERM. The agreement begins 2024-12-26 and expires 2026-12-26. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 35,000.00; undiscounted annual list price GBP 50,000.00.
+2.1 DISCOUNTS. A 30% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 80. Products: Integrations, Compliance Hub, Core LMS, Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1326
+DOC-018-MSA,CUST-018,CTR-018,Master Agreement,contract_018.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-018-MSA
+Customer: Atlas Learning Ltd
+Contract reference: CTR-018
+
+1. TERM. The agreement begins 2025-07-10 and expires 2028-07-10. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 187,500.00; undiscounted annual list price GBP 208,333.33.
+2.1 DISCOUNTS. A 10% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 540. Products: Integrations.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1281
+DOC-019-MSA,CUST-019,CTR-019,Master Agreement,contract_019.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-019-MSA
+Customer: Crestview Learning Ltd
+Contract reference: CTR-019
+
+1. TERM. The agreement begins 2026-02-21 and expires 2027-02-21. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 180,000.00; undiscounted annual list price GBP 211,764.71.
+2.1 DISCOUNTS. A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 620. Products: Learner Portal, Compliance Hub, Integrations.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1344
+DOC-020-MSA,CUST-020,CTR-020,Master Agreement,contract_020.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-020-MSA
+Customer: Newbridge Learning Ltd
+Contract reference: CTR-020
+
+1. TERM. The agreement begins 2023-09-05 and expires 2027-09-05. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 130,000.00; undiscounted annual list price GBP 130,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 600. Products: AI Assist, Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1213
+DOC-021-MSA,CUST-021,CTR-021,Master Agreement,contract_021.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-021-MSA
+Customer: Northstar Education Ltd
+Contract reference: CTR-021
+
+1. TERM. The agreement begins 2024-04-16 and expires 2027-04-16. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 82,500.00; undiscounted annual list price GBP 110,000.00.
+2.1 DISCOUNTS. A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 460. Products: Core LMS, Learner Portal, Compliance Hub.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1326
+DOC-022-MSA,CUST-022,CTR-022,Master Agreement,contract_022.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-022-MSA
+Customer: Oakbridge Education Ltd
+Contract reference: CTR-022
+
+1. TERM. The agreement begins 2025-11-27 and expires 2027-11-27. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 147,500.00; undiscounted annual list price GBP 155,263.16.
+2.1 DISCOUNTS. A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 640. Products: AI Assist.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1272
+DOC-023-MSA,CUST-023,CTR-023,Master Agreement,contract_023.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-023-MSA
+Customer: Meridian Education Ltd
+Contract reference: CTR-023
+
+1. TERM. The agreement begins 2026-06-11 and expires 2028-06-11. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 190,000.00; undiscounted annual list price GBP 253,333.33.
+2.1 DISCOUNTS. A 25% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 380. Products: Compliance Hub, Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1329
+DOC-024-MSA,CUST-024,CTR-024,Master Agreement,contract_024.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-024-MSA
+Customer: Bluewater Education Ltd
+Contract reference: CTR-024
+
+1. TERM. The agreement begins 2023-01-22 and expires 2027-01-22. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 27,500.00; undiscounted annual list price GBP 27,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 780. Products: Core LMS, Integrations, AI Assist.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1195
+DOC-025-MSA,CUST-025,CTR-025,Master Agreement,contract_025.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-025-MSA
+Customer: Cedar Education Ltd
+Contract reference: CTR-025
+
+1. TERM. The agreement begins 2024-08-06 and expires 2027-08-06. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 100,000.00; undiscounted annual list price GBP 133,333.33.
+2.1 DISCOUNTS. A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 760. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1266
+DOC-026-MSA,CUST-026,CTR-026,Master Agreement,contract_026.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-026-MSA
+Customer: Evergreen Education Ltd
+Contract reference: CTR-026
+
+1. TERM. The agreement begins 2025-03-17 and expires 2027-03-17. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 80,000.00; undiscounted annual list price GBP 80,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 160. Products: Analytics, Learner Portal.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1234
+DOC-027-MSA,CUST-027,CTR-027,Master Agreement,contract_027.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-027-MSA
+Customer: Horizon Education Ltd
+Contract reference: CTR-027
+
+1. TERM. The agreement begins 2026-10-01 and expires 2029-10-01. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 90,000.00; undiscounted annual list price GBP 112,500.00.
+2.1 DISCOUNTS. A 20% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 360. Products: Learner Portal.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1311
+DOC-028-MSA,CUST-028,CTR-028,Master Agreement,contract_028.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-028-MSA
+Customer: Silverline Education Ltd
+Contract reference: CTR-028
+
+1. TERM. The agreement begins 2023-05-12 and expires 2027-05-12. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 207,500.00; undiscounted annual list price GBP 276,666.67.
+2.1 DISCOUNTS. A 25% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 480. Products: Core LMS, Integrations, Learner Portal, Compliance Hub.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1338
+DOC-029-MSA,CUST-029,CTR-029,Master Agreement,contract_029.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-029-MSA
+Customer: Westfield Education Ltd
+Contract reference: CTR-029
+
+1. TERM. The agreement begins 2024-12-23 and expires 2027-12-23. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 135,000.00; undiscounted annual list price GBP 135,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 140. Products: Integrations, Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1215
+DOC-030-MSA,CUST-030,CTR-030,Master Agreement,contract_030.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-030-MSA
+Customer: Brightpath Education Ltd
+Contract reference: CTR-030
+
+1. TERM. The agreement begins 2025-07-07 and expires 2027-07-07. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 160,000.00; undiscounted annual list price GBP 168,421.05.
+2.1 DISCOUNTS. A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 360. Products: Integrations, Compliance Hub, Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1323
+DOC-031-MSA,CUST-031,CTR-031,Master Agreement,contract_031.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-031-MSA
+Customer: Aster Education Ltd
+Contract reference: CTR-031
+
+1. TERM. The agreement begins 2026-02-18 and expires 2028-02-18. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 130,000.00; undiscounted annual list price GBP 162,500.00.
+2.1 DISCOUNTS. A 20% introductory discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 340. Products: Core LMS, Analytics, Learner Portal.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1303
+DOC-032-MSA,CUST-032,CTR-032,Master Agreement,contract_032.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-032-MSA
+Customer: Pioneer Education Ltd
+Contract reference: CTR-032
+
+1. TERM. The agreement begins 2023-09-02 and expires 2027-09-02. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 120,000.00; undiscounted annual list price GBP 141,176.47.
+2.1 DISCOUNTS. A 15% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 220. Products: AI Assist, Compliance Hub, Analytics.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1312
+DOC-033-MSA,CUST-033,CTR-033,Master Agreement,contract_033.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-033-MSA
+Customer: Redwood Education Ltd
+Contract reference: CTR-033
+
+1. TERM. The agreement begins 2024-04-13 and expires 2027-04-13. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 197,500.00; undiscounted annual list price GBP 282,142.86.
+2.1 DISCOUNTS. A 30% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 740. Products: Compliance Hub, Analytics, AI Assist, Integrations.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1330
+DOC-034-MSA,CUST-034,CTR-034,Master Agreement,contract_034.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-034-MSA
+Customer: Summit Education Ltd
+Contract reference: CTR-034
+
+1. TERM. The agreement begins 2025-11-24 and expires 2027-11-24. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 92,500.00; undiscounted annual list price GBP 97,368.42.
+2.1 DISCOUNTS. A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 600. Products: Integrations.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1252
+DOC-035-MSA,CUST-035,CTR-035,Master Agreement,contract_035.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-035-MSA
+Customer: Beacon Education Ltd
+Contract reference: CTR-035
+
+1. TERM. The agreement begins 2026-06-08 and expires 2028-06-08. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 130,000.00; undiscounted annual list price GBP 173,333.33.
+2.1 DISCOUNTS. A 25% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 160. Products: Analytics, Compliance Hub.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1318
+DOC-036-MSA,CUST-036,CTR-036,Master Agreement,contract_036.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-036-MSA
+Customer: Riverside Education Ltd
+Contract reference: CTR-036
+
+1. TERM. The agreement begins 2023-01-19 and expires 2027-01-19. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 127,500.00; undiscounted annual list price GBP 150,000.00.
+2.1 DISCOUNTS. A 15% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 620. Products: Analytics, Integrations, Learner Portal, Core LMS.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1339
+DOC-037-MSA,CUST-037,CTR-037,Master Agreement,contract_037.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-037-MSA
+Customer: Eastgate Education Ltd
+Contract reference: CTR-037
+
+1. TERM. The agreement begins 2024-08-03 and expires 2027-08-03. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 55,000.00; undiscounted annual list price GBP 78,571.43.
+2.1 DISCOUNTS. A 30% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 500. Products: Learner Portal, Compliance Hub, Analytics, Core LMS.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1303
+DOC-038-MSA,CUST-038,CTR-038,Master Agreement,contract_038.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-038-MSA
+Customer: Atlas Education Ltd
+Contract reference: CTR-038
+
+1. TERM. The agreement begins 2025-03-14 and expires 2027-03-14. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 192,500.00; undiscounted annual list price GBP 192,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 240. Products: Analytics.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1229
+DOC-039-MSA,CUST-039,CTR-039,Master Agreement,contract_039.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-039-MSA
+Customer: Crestview Education Ltd
+Contract reference: CTR-039
+
+1. TERM. The agreement begins 2026-10-25 and expires 2027-10-25. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 167,500.00; undiscounted annual list price GBP 176,315.79.
+2.1 DISCOUNTS. A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 520. Products: Integrations, Compliance Hub, Learner Portal.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1320
+DOC-040-MSA,CUST-040,CTR-040,Master Agreement,contract_040.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-040-MSA
+Customer: Newbridge Education Ltd
+Contract reference: CTR-040
+
+1. TERM. The agreement begins 2023-05-09 and expires 2027-05-09. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 100,000.00; undiscounted annual list price GBP 117,647.06.
+2.1 DISCOUNTS. A 15% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 400. Products: Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1274
+DOC-041-MSA,CUST-041,CTR-041,Master Agreement,contract_041.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-041-MSA
+Customer: Northstar Academy Ltd
+Contract reference: CTR-041
+
+1. TERM. The agreement begins 2024-12-20 and expires 2027-12-20. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 122,500.00; undiscounted annual list price GBP 128,947.37.
+2.1 DISCOUNTS. A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 140. Products: Learner Portal, Integrations.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1296
+DOC-042-MSA,CUST-042,CTR-042,Master Agreement,contract_042.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-042-MSA
+Customer: Oakbridge Academy Ltd
+Contract reference: CTR-042
+
+1. TERM. The agreement begins 2025-07-04 and expires 2028-07-04. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 175,000.00; undiscounted annual list price GBP 194,444.44.
+2.1 DISCOUNTS. A 10% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 700. Products: Learner Portal, Integrations, Analytics, AI Assist.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1325
+DOC-043-MSA,CUST-043,CTR-043,Master Agreement,contract_043.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-043-MSA
+Customer: Meridian Academy Ltd
+Contract reference: CTR-043
+
+1. TERM. The agreement begins 2026-02-15 and expires 2029-02-15. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 115,000.00; undiscounted annual list price GBP 127,777.78.
+2.1 DISCOUNTS. A 10% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 400. Products: Integrations, Learner Portal.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1273
+DOC-044-MSA,CUST-044,CTR-044,Master Agreement,contract_044.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-044-MSA
+Customer: Bluewater Academy Ltd
+Contract reference: CTR-044
+
+1. TERM. The agreement begins 2023-09-26 and expires 2027-09-26. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 65,000.00; undiscounted annual list price GBP 86,666.67.
+2.1 DISCOUNTS. A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 700. Products: Core LMS, Integrations, Learner Portal.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1272
+DOC-045-MSA,CUST-045,CTR-045,Master Agreement,contract_045.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-045-MSA
+Customer: Cedar Academy Ltd
+Contract reference: CTR-045
+
+1. TERM. The agreement begins 2024-04-10 and expires 2027-04-10. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 82,500.00; undiscounted annual list price GBP 110,000.00.
+2.1 DISCOUNTS. A 25% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 180. Products: Core LMS.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1296
+DOC-046-MSA,CUST-046,CTR-046,Master Agreement,contract_046.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-046-MSA
+Customer: Evergreen Academy Ltd
+Contract reference: CTR-046
+
+1. TERM. The agreement begins 2025-11-21 and expires 2027-11-21. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 200,000.00; undiscounted annual list price GBP 200,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 320. Products: Analytics, Learner Portal.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1228
+DOC-047-MSA,CUST-047,CTR-047,Master Agreement,contract_047.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-047-MSA
+Customer: Horizon Academy Ltd
+Contract reference: CTR-047
+
+1. TERM. The agreement begins 2026-06-05 and expires 2029-06-05. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 30,000.00; undiscounted annual list price GBP 31,578.95.
+2.1 DISCOUNTS. A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 660. Products: Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1261
+DOC-048-MSA,CUST-048,CTR-048,Master Agreement,contract_048.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-048-MSA
+Customer: Silverline Academy Ltd
+Contract reference: CTR-048
+
+1. TERM. The agreement begins 2023-01-16 and expires 2027-01-16. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 172,500.00; undiscounted annual list price GBP 215,625.00.
+2.1 DISCOUNTS. A 20% competitive discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 180. Products: AI Assist.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1280
+DOC-049-MSA,CUST-049,CTR-049,Master Agreement,contract_049.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-049-MSA
+Customer: Westfield Academy Ltd
+Contract reference: CTR-049
+
+1. TERM. The agreement begins 2024-08-27 and expires 2027-08-27. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 162,500.00; undiscounted annual list price GBP 162,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 620. Products: Integrations, Analytics, Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1214
+DOC-050-MSA,CUST-050,CTR-050,Master Agreement,contract_050.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-050-MSA
+Customer: Brightpath Academy Ltd
+Contract reference: CTR-050
+
+1. TERM. The agreement begins 2025-03-11 and expires 2028-03-11. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 210,000.00; undiscounted annual list price GBP 221,052.63.
+2.1 DISCOUNTS. A 5% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 580. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1270
+DOC-051-MSA,CUST-051,CTR-051,Master Agreement,contract_051.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-051-MSA
+Customer: Aster Academy Ltd
+Contract reference: CTR-051
+
+1. TERM. The agreement begins 2026-10-22 and expires 2027-10-22. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 165,000.00; undiscounted annual list price GBP 220,000.00.
+2.1 DISCOUNTS. A 25% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 260. Products: Compliance Hub, AI Assist, Learner Portal, Integrations.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1322
+DOC-052-MSA,CUST-052,CTR-052,Master Agreement,contract_052.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-052-MSA
+Customer: Pioneer Academy Ltd
+Contract reference: CTR-052
+
+1. TERM. The agreement begins 2023-05-06 and expires 2027-05-06. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 207,500.00; undiscounted annual list price GBP 230,555.56.
+2.1 DISCOUNTS. A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 660. Products: Integrations.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1285
+DOC-053-MSA,CUST-053,CTR-053,Master Agreement,contract_053.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-053-MSA
+Customer: Redwood Academy Ltd
+Contract reference: CTR-053
+
+1. TERM. The agreement begins 2024-12-17 and expires 2027-12-17. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 195,000.00; undiscounted annual list price GBP 205,263.16.
+2.1 DISCOUNTS. A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 760. Products: Analytics, Core LMS, Integrations, Learner Portal.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1308
+DOC-054-MSA,CUST-054,CTR-054,Master Agreement,contract_054.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-054-MSA
+Customer: Summit Academy Ltd
+Contract reference: CTR-054
+
+1. TERM. The agreement begins 2025-07-01 and expires 2028-07-01. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 62,500.00; undiscounted annual list price GBP 89,285.71.
+2.1 DISCOUNTS. A 30% competitive discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 740. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1274
+DOC-055-MSA,CUST-055,CTR-055,Master Agreement,contract_055.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-055-MSA
+Customer: Beacon Academy Ltd
+Contract reference: CTR-055
+
+1. TERM. The agreement begins 2026-02-12 and expires 2027-02-12. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 112,500.00; undiscounted annual list price GBP 112,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 660. Products: Core LMS, AI Assist, Learner Portal, Compliance Hub.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1255
+DOC-056-MSA,CUST-056,CTR-056,Master Agreement,contract_056.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-056-MSA
+Customer: Riverside Academy Ltd
+Contract reference: CTR-056
+
+1. TERM. The agreement begins 2023-09-23 and expires 2027-09-23. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 105,000.00; undiscounted annual list price GBP 140,000.00.
+2.1 DISCOUNTS. A 25% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 260. Products: Core LMS, Learner Portal.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1270
+DOC-057-MSA,CUST-057,CTR-057,Master Agreement,contract_057.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-057-MSA
+Customer: Eastgate Academy Ltd
+Contract reference: CTR-057
+
+1. TERM. The agreement begins 2024-04-07 and expires 2027-04-07. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 182,500.00; undiscounted annual list price GBP 260,714.29.
+2.1 DISCOUNTS. A 30% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 420. Products: Learner Portal, Integrations, AI Assist, Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1343
+DOC-058-MSA,CUST-058,CTR-058,Master Agreement,contract_058.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-058-MSA
+Customer: Atlas Academy Ltd
+Contract reference: CTR-058
+
+1. TERM. The agreement begins 2025-11-18 and expires 2027-11-18. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 125,000.00; undiscounted annual list price GBP 125,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 120. Products: Compliance Hub, Learner Portal, Integrations.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1210
+DOC-059-MSA,CUST-059,CTR-059,Master Agreement,contract_059.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-059-MSA
+Customer: Crestview Academy Ltd
+Contract reference: CTR-059
+
+1. TERM. The agreement begins 2026-06-02 and expires 2027-06-02. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 47,500.00; undiscounted annual list price GBP 67,857.14.
+2.1 DISCOUNTS. A 30% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 680. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1274
+DOC-060-MSA,CUST-060,CTR-060,Master Agreement,contract_060.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-060-MSA
+Customer: Newbridge Academy Ltd
+Contract reference: CTR-060
+
+1. TERM. The agreement begins 2023-01-13 and expires 2027-01-13. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 152,500.00; undiscounted annual list price GBP 217,857.14.
+2.1 DISCOUNTS. A 30% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 700. Products: Compliance Hub, Integrations, Learner Portal, Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1358
+DOC-061-MSA,CUST-061,CTR-061,Master Agreement,contract_061.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-061-MSA
+Customer: Northstar University Ltd
+Contract reference: CTR-061
+
+1. TERM. The agreement begins 2024-08-24 and expires 2027-08-24. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 55,000.00; undiscounted annual list price GBP 68,750.00.
+2.1 DISCOUNTS. A 20% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 600. Products: Analytics, AI Assist.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1301
+DOC-062-MSA,CUST-062,CTR-062,Master Agreement,contract_062.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-062-MSA
+Customer: Oakbridge University Ltd
+Contract reference: CTR-062
+
+1. TERM. The agreement begins 2025-03-08 and expires 2028-03-08. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 40,000.00; undiscounted annual list price GBP 47,058.82.
+2.1 DISCOUNTS. A 15% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 380. Products: Analytics, Core LMS, AI Assist.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1319
+DOC-063-MSA,CUST-063,CTR-063,Master Agreement,contract_063.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-063-MSA
+Customer: Meridian University Ltd
+Contract reference: CTR-063
+
+1. TERM. The agreement begins 2026-10-19 and expires 2027-10-19. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 170,000.00; undiscounted annual list price GBP 242,857.14.
+2.1 DISCOUNTS. A 30% volume discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 560. Products: AI Assist, Learner Portal.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1292
+DOC-064-MSA,CUST-064,CTR-064,Master Agreement,contract_064.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-064-MSA
+Customer: Bluewater University Ltd
+Contract reference: CTR-064
+
+1. TERM. The agreement begins 2023-05-03 and expires 2027-05-03. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 95,000.00; undiscounted annual list price GBP 100,000.00.
+2.1 DISCOUNTS. A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 760. Products: AI Assist.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1272
+DOC-065-MSA,CUST-065,CTR-065,Master Agreement,contract_065.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-065-MSA
+Customer: Cedar University Ltd
+Contract reference: CTR-065
+
+1. TERM. The agreement begins 2024-12-14 and expires 2026-12-14. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 152,500.00; undiscounted annual list price GBP 152,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 420. Products: Integrations, Learner Portal, Compliance Hub, Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1244
+DOC-066-MSA,CUST-066,CTR-066,Master Agreement,contract_066.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-066-MSA
+Customer: Evergreen University Ltd
+Contract reference: CTR-066
+
+1. TERM. The agreement begins 2025-07-25 and expires 2027-07-25. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 77,500.00; undiscounted annual list price GBP 81,578.95.
+2.1 DISCOUNTS. A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 80. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1268
+DOC-067-MSA,CUST-067,CTR-067,Master Agreement,contract_067.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-067-MSA
+Customer: Horizon University Ltd
+Contract reference: CTR-067
+
+1. TERM. The agreement begins 2026-02-09 and expires 2028-02-09. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 120,000.00; undiscounted annual list price GBP 133,333.33.
+2.1 DISCOUNTS. A 10% competitive discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 580. Products: Core LMS, Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1281
+DOC-068-MSA,CUST-068,CTR-068,Master Agreement,contract_068.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-068-MSA
+Customer: Silverline University Ltd
+Contract reference: CTR-068
+
+1. TERM. The agreement begins 2023-09-20 and expires 2027-09-20. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 185,000.00; undiscounted annual list price GBP 194,736.84.
+2.1 DISCOUNTS. A 5% strategic discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 200. Products: Integrations, Analytics.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1295
+DOC-069-MSA,CUST-069,CTR-069,Master Agreement,contract_069.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-069-MSA
+Customer: Westfield University Ltd
+Contract reference: CTR-069
+
+1. TERM. The agreement begins 2024-04-04 and expires 2027-04-04. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 165,000.00; undiscounted annual list price GBP 173,684.21.
+2.1 DISCOUNTS. A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 540. Products: Analytics, Core LMS, AI Assist, Learner Portal.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1306
+DOC-070-MSA,CUST-070,CTR-070,Master Agreement,contract_070.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-070-MSA
+Customer: Brightpath University Ltd
+Contract reference: CTR-070
+
+1. TERM. The agreement begins 2025-11-15 and expires 2027-11-15. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 85,000.00; undiscounted annual list price GBP 106,250.00.
+2.1 DISCOUNTS. A 20% introductory discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 520. Products: Analytics.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1247
+DOC-071-MSA,CUST-071,CTR-071,Master Agreement,contract_071.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-071-MSA
+Customer: Aster University Ltd
+Contract reference: CTR-071
+
+1. TERM. The agreement begins 2026-06-26 and expires 2028-06-26. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 57,500.00; undiscounted annual list price GBP 71,875.00.
+2.1 DISCOUNTS. A 20% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 240. Products: Analytics, Compliance Hub, Core LMS, Learner Portal.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1303
+DOC-072-MSA,CUST-072,CTR-072,Master Agreement,contract_072.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-072-MSA
+Customer: Pioneer University Ltd
+Contract reference: CTR-072
+
+1. TERM. The agreement begins 2023-01-10 and expires 2027-01-10. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 130,000.00; undiscounted annual list price GBP 152,941.18.
+2.1 DISCOUNTS. A 15% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 180. Products: Learner Portal, AI Assist, Core LMS, Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1331
+DOC-073-MSA,CUST-073,CTR-073,Master Agreement,contract_073.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-073-MSA
+Customer: Redwood University Ltd
+Contract reference: CTR-073
+
+1. TERM. The agreement begins 2024-08-21 and expires 2027-08-21. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 112,500.00; undiscounted annual list price GBP 118,421.05.
+2.1 DISCOUNTS. A 5% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 740. Products: Learner Portal, Core LMS, AI Assist, Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1316
+DOC-074-MSA,CUST-074,CTR-074,Master Agreement,contract_074.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-074-MSA
+Customer: Summit University Ltd
+Contract reference: CTR-074
+
+1. TERM. The agreement begins 2025-03-05 and expires 2028-03-05. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 192,500.00; undiscounted annual list price GBP 192,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 560. Products: Analytics.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1206
+DOC-075-MSA,CUST-075,CTR-075,Master Agreement,contract_075.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-075-MSA
+Customer: Beacon University Ltd
+Contract reference: CTR-075
+
+1. TERM. The agreement begins 2026-10-16 and expires 2028-10-16. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 60,000.00; undiscounted annual list price GBP 66,666.67.
+2.1 DISCOUNTS. A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 780. Products: AI Assist.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1294
+DOC-076-MSA,CUST-076,CTR-076,Master Agreement,contract_076.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-076-MSA
+Customer: Riverside University Ltd
+Contract reference: CTR-076
+
+1. TERM. The agreement begins 2023-05-27 and expires 2027-05-27. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 95,000.00; undiscounted annual list price GBP 105,555.56.
+2.1 DISCOUNTS. A 10% none discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 440. Products: Analytics, Learner Portal, Core LMS, AI Assist.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1301
+DOC-077-MSA,CUST-077,CTR-077,Master Agreement,contract_077.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-077-MSA
+Customer: Eastgate University Ltd
+Contract reference: CTR-077
+
+1. TERM. The agreement begins 2024-12-11 and expires 2027-12-11. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 32,500.00; undiscounted annual list price GBP 43,333.33.
+2.1 DISCOUNTS. A 25% introductory discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 420. Products: Analytics, Compliance Hub, Integrations, Core LMS.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1309
+DOC-078-MSA,CUST-078,CTR-078,Master Agreement,contract_078.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-078-MSA
+Customer: Atlas University Ltd
+Contract reference: CTR-078
+
+1. TERM. The agreement begins 2025-07-22 and expires 2027-07-22. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 202,500.00; undiscounted annual list price GBP 202,500.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 780. Products: AI Assist, Integrations.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1237
+DOC-079-MSA,CUST-079,CTR-079,Master Agreement,contract_079.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-079-MSA
+Customer: Crestview University Ltd
+Contract reference: CTR-079
+
+1. TERM. The agreement begins 2026-02-06 and expires 2028-02-06. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 115,000.00; undiscounted annual list price GBP 115,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 440. Products: AI Assist, Analytics, Learner Portal.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1205
+DOC-080-MSA,CUST-080,CTR-080,Master Agreement,contract_080.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-080-MSA
+Customer: Newbridge University Ltd
+Contract reference: CTR-080
+
+1. TERM. The agreement begins 2023-09-17 and expires 2027-09-17. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 57,500.00; undiscounted annual list price GBP 67,647.06.
+2.1 DISCOUNTS. A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 560. Products: AI Assist, Learner Portal, Core LMS, Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1303
+DOC-081-MSA,CUST-081,CTR-081,Master Agreement,contract_081.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-081-MSA
+Customer: Northstar Training UK
+Contract reference: CTR-081
+
+1. TERM. The agreement begins 2024-04-01 and expires 2027-04-01. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 80,000.00; undiscounted annual list price GBP 106,666.67.
+2.1 DISCOUNTS. A 25% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 520. Products: AI Assist, Integrations, Core LMS.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1299
+DOC-082-MSA,CUST-082,CTR-082,Master Agreement,contract_082.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-082-MSA
+Customer: Oakbridge Training UK
+Contract reference: CTR-082
+
+1. TERM. The agreement begins 2025-11-12 and expires 2028-11-12. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 60,000.00; undiscounted annual list price GBP 80,000.00.
+2.1 DISCOUNTS. A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 240. Products: Core LMS, Learner Portal, Analytics.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1265
+DOC-083-MSA,CUST-083,CTR-083,Master Agreement,contract_083.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-083-MSA
+Customer: Meridian Training UK
+Contract reference: CTR-083
+
+1. TERM. The agreement begins 2026-06-23 and expires 2027-06-23. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 82,500.00; undiscounted annual list price GBP 103,125.00.
+2.1 DISCOUNTS. A 20% competitive discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 200. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1278
+DOC-084-MSA,CUST-084,CTR-084,Master Agreement,contract_084.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-084-MSA
+Customer: Bluewater Training UK
+Contract reference: CTR-084
+
+1. TERM. The agreement begins 2023-01-07 and expires 2027-01-07. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 132,500.00; undiscounted annual list price GBP 176,666.67.
+2.1 DISCOUNTS. A 25% strategic discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 800. Products: Compliance Hub, Analytics, Integrations, Core LMS.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1355
+DOC-085-MSA,CUST-085,CTR-085,Master Agreement,contract_085.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-085-MSA
+Customer: Cedar Training UK
+Contract reference: CTR-085
+
+1. TERM. The agreement begins 2024-08-18 and expires 2027-08-18. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 130,000.00; undiscounted annual list price GBP 136,842.11.
+2.1 DISCOUNTS. A 5% none discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 720. Products: Integrations.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1264
+DOC-086-MSA,CUST-086,CTR-086,Master Agreement,contract_086.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-086-MSA
+Customer: Evergreen Training UK
+Contract reference: CTR-086
+
+1. TERM. The agreement begins 2025-03-02 and expires 2027-03-02. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 180,000.00; undiscounted annual list price GBP 257,142.86.
+2.1 DISCOUNTS. A 30% volume discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 520. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1314
+DOC-087-MSA,CUST-087,CTR-087,Master Agreement,contract_087.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-087-MSA
+Customer: Horizon Training UK
+Contract reference: CTR-087
+
+1. TERM. The agreement begins 2026-10-13 and expires 2029-10-13. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 177,500.00; undiscounted annual list price GBP 197,222.22.
+2.1 DISCOUNTS. A 10% volume discount is applied to the initial subscription price. Discount treatment at renewal: continues on renewal. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Dedicated onboarding specialist.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 640. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1289
+DOC-088-MSA,CUST-088,CTR-088,Master Agreement,contract_088.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-088-MSA
+Customer: Silverline Training UK
+Contract reference: CTR-088
+
+1. TERM. The agreement begins 2023-05-24 and expires 2027-05-24. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 182,500.00; undiscounted annual list price GBP 214,705.88.
+2.1 DISCOUNTS. A 15% multi-year discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 460. Products: Analytics, Integrations, Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1280
+DOC-089-MSA,CUST-089,CTR-089,Master Agreement,contract_089.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-089-MSA
+Customer: Westfield Training UK
+Contract reference: CTR-089
+
+1. TERM. The agreement begins 2024-12-08 and expires 2026-12-08. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 147,500.00; undiscounted annual list price GBP 155,263.16.
+2.1 DISCOUNTS. A 5% competitive discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 500. Products: Learner Portal.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1273
+DOC-090-MSA,CUST-090,CTR-090,Master Agreement,contract_090.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-090-MSA
+Customer: Brightpath Training UK
+Contract reference: CTR-090
+
+1. TERM. The agreement begins 2025-07-19 and expires 2027-07-19. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 160,000.00; undiscounted annual list price GBP 213,333.33.
+2.1 DISCOUNTS. A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Bespoke API integration.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 660. Products: Integrations.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1266
+DOC-091-MSA,CUST-091,CTR-091,Master Agreement,contract_091.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-091-MSA
+Customer: Aster Training UK
+Contract reference: CTR-091
+
+1. TERM. The agreement begins 2026-02-03 and expires 2029-02-03. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 202,500.00; undiscounted annual list price GBP 270,000.00.
+2.1 DISCOUNTS. A 25% none discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 7% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 240. Products: AI Assist.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1255
+DOC-092-MSA,CUST-092,CTR-092,Master Agreement,contract_092.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-092-MSA
+Customer: Pioneer Training UK
+Contract reference: CTR-092
+
+1. TERM. The agreement begins 2023-09-14 and expires 2027-09-14. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 72,500.00; undiscounted annual list price GBP 90,625.00.
+2.1 DISCOUNTS. A 20% strategic discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. A GBP 2,500.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.5% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 660. Products: AI Assist.
+10. APPROVAL. Original concession approver: Commercial Director.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1289
+DOC-093-MSA,CUST-093,CTR-093,Master Agreement,contract_093.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-093-MSA
+Customer: Redwood Training UK
+Contract reference: CTR-093
+
+1. TERM. The agreement begins 2024-04-25 and expires 2027-04-25. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 115,000.00; undiscounted annual list price GBP 153,333.33.
+2.1 DISCOUNTS. A 25% introductory discount is applied to the initial subscription price. Discount treatment at renewal: unclear. Commercial rationale: Multi-year commitment.
+2.2 CONCESSIONS. A GBP 7,500.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 30 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 340. Products: Integrations, Learner Portal.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Needs review,2026-10-21 18:00:00,1293
+DOC-094-MSA,CUST-094,CTR-094,Master Agreement,contract_094.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-094-MSA
+Customer: Summit Training UK
+Contract reference: CTR-094
+
+1. TERM. The agreement begins 2025-11-09 and expires 2026-11-09. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 25,000.00; undiscounted annual list price GBP 25,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 360. Products: Compliance Hub, AI Assist, Core LMS.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1243
+DOC-095-MSA,CUST-095,CTR-095,Master Agreement,contract_095.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-095-MSA
+Customer: Beacon Training UK
+Contract reference: CTR-095
+
+1. TERM. The agreement begins 2026-06-20 and expires 2027-06-20. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 95,000.00; undiscounted annual list price GBP 100,000.00.
+2.1 DISCOUNTS. A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Competitor displacement.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 60 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Standard procurement.
+9. LICENSING. Contracted seats: 660. Products: Compliance Hub.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1268
+DOC-096-MSA,CUST-096,CTR-096,Master Agreement,contract_096.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-096-MSA
+Customer: Riverside Training UK
+Contract reference: CTR-096
+
+1. TERM. The agreement begins 2023-01-04 and expires 2027-01-04. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 167,500.00; undiscounted annual list price GBP 176,315.79.
+2.1 DISCOUNTS. A 5% introductory discount is applied to the initial subscription price. Discount treatment at renewal: subject to renegotiation. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. No early convenience termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. None.
+8. PROCUREMENT. PO required 60 days before renewal.
+9. LICENSING. Contracted seats: 300. Products: AI Assist.
+10. APPROVAL. Original concession approver: CFO.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1250
+DOC-097-MSA,CUST-097,CTR-097,Master Agreement,contract_097.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-097-MSA
+Customer: Eastgate Training UK
+Contract reference: CTR-097
+
+1. TERM. The agreement begins 2024-08-15 and expires 2027-08-15. Initial contracted term: 36 months.
+2. FEES. Annual subscription fee GBP 25,000.00; undiscounted annual list price GBP 25,000.00.
+2.1 DISCOUNTS. No discount applies to the subscription fee. Commercial rationale: No discount granted.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Standard breach termination.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 120. Products: AI Assist, Compliance Hub, Core LMS.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1209
+DOC-098-MSA,CUST-098,CTR-098,Master Agreement,contract_098.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-098-MSA
+Customer: Atlas Training UK
+Contract reference: CTR-098
+
+1. TERM. The agreement begins 2025-03-26 and expires 2027-03-26. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 147,500.00; undiscounted annual list price GBP 173,529.41.
+2.1 DISCOUNTS. A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Budget alignment.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 0% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Early exit after year one.
+6. SERVICE LEVELS. 4-hour P1 response.
+7. CUSTOMER-SPECIFIC COMMITMENT. Custom data retention period.
+8. PROCUREMENT. Legal review before signature.
+9. LICENSING. Contracted seats: 720. Products: AI Assist, Learner Portal.
+10. APPROVAL. Original concession approver: Head of Customer Success.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1306
+DOC-099-MSA,CUST-099,CTR-099,Master Agreement,contract_099.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-099-MSA
+Customer: Crestview Training UK
+Contract reference: CTR-099
+
+1. TERM. The agreement begins 2026-10-10 and expires 2028-10-10. Initial contracted term: 24 months.
+2. FEES. Annual subscription fee GBP 182,500.00; undiscounted annual list price GBP 214,705.88.
+2.1 DISCOUNTS. A 15% introductory discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Group-wide rollout.
+2.2 CONCESSIONS. No implementation fees are waived.
+3. RENEWAL. Automatically renews for 12-month periods. Written notice period: 90 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 3% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. Standard SLA.
+7. CUSTOMER-SPECIFIC COMMITMENT. Priority support response.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 520. Products: Learner Portal, Core LMS, Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1304
+DOC-100-MSA,CUST-100,CTR-100,Master Agreement,contract_100.pdf,"SOFTWARE SUBSCRIPTION AGREEMENT
+Document ID: DOC-100-MSA
+Customer: Newbridge Training UK
+Contract reference: CTR-100
+
+1. TERM. The agreement begins 2023-05-21 and expires 2027-05-21. Initial contracted term: 12 months.
+2. FEES. Annual subscription fee GBP 100,000.00; undiscounted annual list price GBP 117,647.06.
+2.1 DISCOUNTS. A 15% strategic discount is applied to the initial subscription price. Discount treatment at renewal: initial term only. Commercial rationale: Initial rollout incentive.
+2.2 CONCESSIONS. A GBP 5,000.00 implementation fee is waived.
+3. RENEWAL. Requires written agreement to renew. Written notice period: 120 days before the expiry date.
+4. PRICE CHANGES. Annual uplift shall not exceed 5% where applicable; pricing interpretation is subject to the executed order form and amendments.
+5. TERMINATION. Convenience termination with 60-day notice.
+6. SERVICE LEVELS. 99.9% availability.
+7. CUSTOMER-SPECIFIC COMMITMENT. Quarterly executive review.
+8. PROCUREMENT. Board approval for uplifts >5%.
+9. LICENSING. Contracted seats: 280. Products: Compliance Hub, Learner Portal, Integrations, Analytics.
+10. APPROVAL. Original concession approver: VP Sales.
+11. GOVERNING TERMS. Any signed amendment takes precedence over conflicting provisions of this agreement.
+
+SYNTHETIC EXAMPLE — NOT A LEGALLY EXECUTED AGREEMENT.",Success,2026-10-21 18:00:00,1340
